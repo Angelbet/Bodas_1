@@ -2,7 +2,7 @@ import React from 'react'
 import Footer from './Components/Footer'
 import Head from 'next/head'
 import Image from 'next/image'
-import style from '@/styles/Home.module.css'
+import style from '../styles/Home.module.css'
 
 // Images
 import logo_familia from '../public/Images/logo_familia.png'

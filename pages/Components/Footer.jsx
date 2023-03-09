@@ -1,15 +1,15 @@
 import React from 'react'
-import style from '@/styles/Home.module.css'
+import style from '../../styles/Home.module.css'
 import Link from 'next/link'
 import Image from 'next/image'
 
-import instagram_1 from '@/public/Images/instagram_1.jpg'
-import instagram_2 from '@/public/Images/instagram_2.jpg'
-import instagram_3 from '@/public/Images/instagram_3.jpg'
-import instagram_4 from '@/public/Images/instagram_4.jpg'
-import instagram_5 from '@/public/Images/instagram_5.jpg'
-import instagram_6 from '@/public/Images/instagram_6.jpg'
-import logo from '@/public/Images/logo.svg'
+import instagram_1 from '../../public/Images/instagram_1.jpg'
+import instagram_2 from '../../public/Images/instagram_2.jpg'
+import instagram_3 from '../../public/Images/instagram_3.jpg'
+import instagram_4 from '../../public/Images/instagram_4.jpg'
+import instagram_5 from '../../public/Images/instagram_5.jpg'
+import instagram_6 from '../../public/Images/instagram_6.jpg'
+import logo from '../../public/Images/logo.svg'
 
 
 

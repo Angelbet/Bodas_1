@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import style from '@/styles/Home.module.css'
+import style from '../styles/Home.module.css'
 import Footer from './Components/Footer'
 
 // Images
